@@ -3,9 +3,9 @@ Gradio is a tool that enables the deployment of machine learning models into gra
 
 
 ## Summary
-| Code      | Name        | Published Article |  Deployed App |
-|-----------|-------------|:-------------:|------:|
-| LP4 | Telco Customer Churn Predictor |  https://medium.com/@kwabenaabrefa/maximizing-customer-retention-deploying-machine-learning-models-and-predicting-customer-churn-5cab677a8c1 | [Best app of the world](/) |
+| Code      | Name        | Published Article |
+|-----------|-------------|:-------------:|
+| LP4 | Telco Customer Churn Predictor |  https://medium.com/@kwabenaabrefa/maximizing-customer-retention-deploying-machine-learning-models-and-predicting-customer-churn-5cab677a8c1 |
 
 ## Project Description
 ----
